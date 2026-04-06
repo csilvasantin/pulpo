@@ -1,4 +1,4 @@
-# Claude — CTO de Pulpo
+# Proyecto 16 — Pulpo (Claude = CTO)
 
 ## Tu rol
 

@@ -1,4 +1,4 @@
-# Codex — CMO de Pulpo
+# Proyecto 16 — Pulpo (Codex = CMO)
 
 ## Tu rol
 
